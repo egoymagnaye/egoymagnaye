@@ -12,4 +12,4 @@ Lately, I've been focusing on [direct booking websites](https://www.egoymagnaye.
  
 If you need a website or just want to say hi:
  
-[Website](https://www.egoymagnaye.com/) · [Email](mailto:info@egoymagnaye.com) · [Instagram](https://www.instagram.com/egoydev.design/) · [Reviews](https://maps.app.goo.gl/tXuWBde5vMJUvBfG6)
+[Website](https://www.egoymagnaye.com/) · [Email](mailto:info@egoymagnaye.com) · [Instagram](https://www.instagram.com/egoydev.design/) · [Reviews](https://www.egoymagnaye.com/reviews/)
